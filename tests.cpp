@@ -8,8 +8,8 @@
     Author: L. Henke
 */
 
-#include "test_no_template.h" // Comment out once you add templates
-// #include "test_with_template.h" // Uncomment once you add templates
+//#include "test_no_template.h" // Comment out once you add templates
+ #include "test_with_template.h" // Uncomment once you add templates
 
 int main() {
     run_tests();

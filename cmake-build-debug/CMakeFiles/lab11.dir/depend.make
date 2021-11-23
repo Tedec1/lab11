@@ -3,5 +3,5 @@
 
 CMakeFiles/lab11.dir/tests.cpp.o: \
  ../Queue.h \
- ../test_no_template.h \
+ ../test_with_template.h \
  ../tests.cpp
